@@ -1,1 +1,1 @@
-# MIEM CPP++ Qt Homework
+# MIEM C++/Qt Homework
